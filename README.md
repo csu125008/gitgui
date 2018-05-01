@@ -1,2 +1,3 @@
 # gitgui
 gui
+author: taylor
